@@ -1,0 +1,6 @@
+[submodule "jails"]
+	path = jails
+	url = https://github.com/toastmod/jails.git
+[submodule "piper"]
+	path = piper
+	url = https://github.com/toastmod/piper.git
